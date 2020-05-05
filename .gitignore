@@ -1,4 +1,4 @@
-*.txt
+/*.txt
 /Experimental Setup/*.pyc
 /Experimental Setup/testcases
 /Experimental Setup/*.csv
